@@ -1,0 +1,10 @@
+#Defines the name for the Haruhi character.
+define Haruhi = Character("Haruhi")
+
+#List of sprites that can be displayed.
+image Haruhi: 
+    "images/Chars/Mei/Bored.png" 
+    zoom .8
+    xanchor 0.5
+    yanchor 0.5
+    yalign 1.
